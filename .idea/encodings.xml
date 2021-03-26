@@ -3,7 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/SpringCloud-Helloword" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Helloword/Eureka-Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Helloword/Eureka-Client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Helloword/Eureka-Server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/SpringCloud-Helloword/Helloworld-Eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Helloword/Eureka-Server/src/main/java" charset="UTF-8" />
   </component>
 </project>
